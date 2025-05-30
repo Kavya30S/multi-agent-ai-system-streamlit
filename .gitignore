@@ -1,0 +1,13 @@
+# Conda environment
+.conda/
+envs/
+
+# Project-specific
+memory/memory.db
+outputs/*
+config.py
+temp/*
+demo.mp4
+__pycache__/
+*.pyc
+

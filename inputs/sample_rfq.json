@@ -1,0 +1,6 @@
+{
+    "invoice_number": "INV123",
+    "amount": 5000.0,
+    "date": "2025-05-29",
+    "sender": "vendor@example.com"
+}

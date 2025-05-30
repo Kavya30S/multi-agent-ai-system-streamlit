@@ -1,0 +1,6 @@
+From: support@clientcorp.com
+Subject: Issue with Recent Order Delivery
+Dear Team,
+We received order #ORD789 last week, but several items were damaged during shipping. Please arrange for replacements as soon as possible or issue a refund. This is urgent.
+Regards,
+ClientCorp Support
